@@ -1,0 +1,14 @@
+service:
+  name: dysopia-admin-backend
+
+provider:
+  name: aliyun
+
+custom:
+  customDomain:
+    domainName: 'dysopia-admin.koto-marvelous.com'
+
+aggregation: ## 对 HTTP 函数使用聚合模式部署
+  all: ## 部署的函数名
+    functionsPattern: ## 匹配的函数规则
+      - '*'

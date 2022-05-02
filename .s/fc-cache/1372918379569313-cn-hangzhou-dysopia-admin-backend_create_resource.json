@@ -1,0 +1,17 @@
+{
+  "serviceName": "dysopia-admin-backend",
+  "functionNames": [
+    "dysopia-admin-backend/photoController-InsertPhoto",
+    "dysopia-admin-backend/photoController-findPhoto",
+    "dysopia-admin-backend/photoController-updatePhoto",
+    "dysopia-admin-backend/photoController-delPhoto",
+    "dysopia-admin-backend/photo"
+  ],
+  "domains": [
+    "photocontroller-insertphoto.dysopia-admin-backend.1372918379569313.cn-hangzhou.fc.devsapp.net",
+    "photocontroller-findphoto.dysopia-admin-backend.1372918379569313.cn-hangzhou.fc.devsapp.net",
+    "photocontroller-updatephoto.dysopia-admin-backend.1372918379569313.cn-hangzhou.fc.devsapp.net",
+    "photocontroller-delphoto.dysopia-admin-backend.1372918379569313.cn-hangzhou.fc.devsapp.net",
+    "photo.dysopia-admin-backend.1372918379569313.cn-hangzhou.fc.devsapp.net"
+  ]
+}
